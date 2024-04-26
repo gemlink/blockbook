@@ -3,7 +3,6 @@ module github.com/trezor/blockbook
 go 1.21
 
 require (
-	github.com/ava-labs/avalanchego v1.10.18-rc.0
 	github.com/ava-labs/coreth v0.12.10-rc.0
 	github.com/bsm/go-vlq v0.0.0-20150828105119-ec6e8d4f5f4e
 	github.com/deckarep/golang-set v1.8.0
@@ -88,7 +87,6 @@ require (
 	github.com/prometheus/procfs v0.9.0 // indirect
 	github.com/shirou/gopsutil v3.21.11+incompatible // indirect
 	github.com/stretchr/testify v1.8.4 // indirect
-	github.com/supranational/blst v0.3.11 // indirect
 	github.com/tklauser/go-sysconf v0.3.12 // indirect
 	github.com/tklauser/numcpus v0.6.1 // indirect
 	github.com/tkrajina/go-reflector v0.5.5 // indirect

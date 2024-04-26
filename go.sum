@@ -53,8 +53,6 @@ github.com/agl/ed25519 v0.0.0-20170116200512-5312a6153412/go.mod h1:WPjqKcmVOxf0
 github.com/allegro/bigcache v1.2.1-0.20190218064605-e24eb225f156 h1:eMwmnE/GDgah4HI848JfFxHt+iPb26b4zyfspmqY0/8=
 github.com/allegro/bigcache v1.2.1-0.20190218064605-e24eb225f156/go.mod h1:Cb/ax3seSYIx7SuZdm2G2xzfwmv3TPSk2ucNfQESPXM=
 github.com/antihax/optional v1.0.0/go.mod h1:uupD/76wgC+ih3iEmQUL+0Ugr19nfwCT1kdvxnR2qWY=
-github.com/ava-labs/avalanchego v1.10.18-rc.0 h1:8tsu5qB/Fp5NFZuJQR48q6wMHGJxGfzvlGxvxdnjg6o=
-github.com/ava-labs/avalanchego v1.10.18-rc.0/go.mod h1:ZbZteX1xINA3U31/akSGO/ZrcVAA7V6tDle0ENJ3DPI=
 github.com/ava-labs/coreth v0.12.10-rc.0 h1:qmuom7rtH5hc1E3lnqrMFNLFL1TMnEVa/2O8poB1YLU=
 github.com/ava-labs/coreth v0.12.10-rc.0/go.mod h1:plFm/xzvWmx1+qJ3JQSTzF8+FdaA2xu7GgY/AdaZDfk=
 github.com/beorn7/perks v1.0.1 h1:VlbKKnNfV8bJzeqoa4cOKqO6bYr3WgKZxO8Z16+hsOM=
